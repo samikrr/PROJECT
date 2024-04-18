@@ -1,0 +1,44 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "department": "Engineering",
+        "email": "john.doe@gmail.com",
+        "phone": "0722875369"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "position": "HR Manager",
+        "department": "Human Resources",
+        "email": "jane.smith@example.com",
+        "phone": "0713124210"
+      },
+      {
+        "id": 3,
+        "name": "Mike Johnson",
+        "position": "Marketing Specialist",
+        "department": "Marketing",
+        "email": "mike.johnson@yahoo.com",
+        "phone": "0706057810"
+      },
+      {
+        "id": 4,
+        "name": "Emily Brown",
+        "position": "Finance Analyst",
+        "department": "Finance",
+        "email": "emily.brown@gmail.com",
+        "phone": "0722420095"
+      },
+      {
+        "id": 5,
+        "name": "Chris Lee",
+        "position": "Operations Manager",
+        "department": "Operations",
+        "email": "chris.lee@gmail.com",
+        "phone": "0740073262"
+      }
+    ]
+  }
